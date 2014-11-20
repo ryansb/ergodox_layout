@@ -1,0 +1,12 @@
+.dep
+*.o
+*.eep
+*.elf
+*.hex
+*.lss
+*.lst
+*.map
+*.sym
+*.swp
+tags
+keymap_simon_passwords.h
